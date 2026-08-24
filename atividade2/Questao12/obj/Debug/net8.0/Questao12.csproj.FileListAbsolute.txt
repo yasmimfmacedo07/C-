@@ -1,0 +1,14 @@
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\obj\Debug\net8.0\Questao12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\obj\Debug\net8.0\Questao12.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\obj\Debug\net8.0\Questao12.AssemblyInfo.cs
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\obj\Debug\net8.0\Questao12.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\bin\Debug\net8.0\Questao12.exe
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\bin\Debug\net8.0\Questao12.deps.json
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\bin\Debug\net8.0\Questao12.runtimeconfig.json
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\bin\Debug\net8.0\Questao12.dll
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\bin\Debug\net8.0\Questao12.pdb
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\obj\Debug\net8.0\Questao12.dll
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\obj\Debug\net8.0\refint\Questao12.dll
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\obj\Debug\net8.0\Questao12.pdb
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\obj\Debug\net8.0\Questao12.genruntimeconfig.cache
+C:\Users\ALUNO\Documents\Bielsons\POO\C#\Switch Case\Questao12\obj\Debug\net8.0\ref\Questao12.dll

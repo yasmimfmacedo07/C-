@@ -1,0 +1,14 @@
+D:\c#_renata\exemploclasse\exemploclasse\obj\Debug\net8.0\exemploclasse.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#_renata\exemploclasse\exemploclasse\obj\Debug\net8.0\exemploclasse.AssemblyInfoInputs.cache
+D:\c#_renata\exemploclasse\exemploclasse\obj\Debug\net8.0\exemploclasse.AssemblyInfo.cs
+D:\c#_renata\exemploclasse\exemploclasse\obj\Debug\net8.0\exemploclasse.csproj.CoreCompileInputs.cache
+D:\c#_renata\exemploclasse\exemploclasse\bin\Debug\net8.0\exemploclasse.exe
+D:\c#_renata\exemploclasse\exemploclasse\bin\Debug\net8.0\exemploclasse.deps.json
+D:\c#_renata\exemploclasse\exemploclasse\bin\Debug\net8.0\exemploclasse.runtimeconfig.json
+D:\c#_renata\exemploclasse\exemploclasse\bin\Debug\net8.0\exemploclasse.dll
+D:\c#_renata\exemploclasse\exemploclasse\bin\Debug\net8.0\exemploclasse.pdb
+D:\c#_renata\exemploclasse\exemploclasse\obj\Debug\net8.0\exemploclasse.dll
+D:\c#_renata\exemploclasse\exemploclasse\obj\Debug\net8.0\refint\exemploclasse.dll
+D:\c#_renata\exemploclasse\exemploclasse\obj\Debug\net8.0\exemploclasse.pdb
+D:\c#_renata\exemploclasse\exemploclasse\obj\Debug\net8.0\exemploclasse.genruntimeconfig.cache
+D:\c#_renata\exemploclasse\exemploclasse\obj\Debug\net8.0\ref\exemploclasse.dll
